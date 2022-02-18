@@ -19,8 +19,6 @@ I’m a Flutter Developer
 |c++|
 
 
-
-
 ### My Certifications :arrow_down:
 - [ Flutter 2019 ] [Angela Yu -> udemy](https://cutt.ly/xO382wk)
 - [ Flutter 2019 ] [ Maximilian Schwarzmüller -> udemy ](https://cutt.ly/EO38NQg)
@@ -28,7 +26,15 @@ I’m a Flutter Developer
 - [ Git & Github ] [git & github-> 365DataScience ](https://cutt.ly/kO34ueW)
 
 ### My projects
-|name|apk|gitHub|
-|----|--------|--------|
-|newsly|[newsly](https://cutt.ly/UPclWeB)|[github](https://github.com/Mohamed-Elrayes/newsly)|
-|chateo|develop mode|[---]|
+|name|apk|gitHub|state management
+|----|--------|--------|--------|
+|ecommerce|[ecommerce 2019-2020]|[github](https://github.com/Mohamed-Elrayes/shop_max)|provider|
+|newsly|[newsly](https://cutt.ly/UPclWeB)|[github](https://github.com/Mohamed-Elrayes/newsly)|bloc|
+|chateo|develop mode|[---]|bloc|
+
+###  problem solving
+|lang|
+|----|
+|[dart](https://github.com/Mohamed-Elrayes/ProblemSolving_Dart)|
+|[c++](https://github.com/Mohamed-Elrayes/challange_c_plus_plus)|
+
