@@ -33,8 +33,8 @@ I’m a Flutter Developer
 |chateo|develop mode|[---]|bloc|
 
 ###  problem solving
-|lang|
-|----|
-|[dart](https://github.com/Mohamed-Elrayes/ProblemSolving_Dart)|
-|[c++](https://github.com/Mohamed-Elrayes/challange_c_plus_plus)|
+|lang| url|
+|----|----|
+|dart|[repo](https://github.com/Mohamed-Elrayes/ProblemSolving_Dart)|
+|c++|[repo](https://github.com/Mohamed-Elrayes/challange_c_plus_plus)|
 
