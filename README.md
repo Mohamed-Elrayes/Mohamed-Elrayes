@@ -25,6 +25,12 @@ I’m a Flutter Developer
 - [ SQL ] [sql -> 365DataScience ](https://cutt.ly/EO34qvu) 
 - [ Git & Github ] [git & github-> 365DataScience ](https://cutt.ly/kO34ueW)
 
+###  problem solving
+|lang| url|
+|----|----|
+|dart|[repo](https://github.com/Mohamed-Elrayes/ProblemSolving_Dart)|
+|c++|[repo](https://github.com/Mohamed-Elrayes/challange_c_plus_plus)|
+
 ### My projects
 |name|apk|gitHub|state management
 |----|--------|--------|--------|
@@ -32,9 +38,4 @@ I’m a Flutter Developer
 |newsly|[newsly](https://cutt.ly/UPclWeB)|[github](https://github.com/Mohamed-Elrayes/newsly)|bloc|
 |chateo|develop mode|[---]|bloc|
 
-###  problem solving
-|lang| url|
-|----|----|
-|dart|[repo](https://github.com/Mohamed-Elrayes/ProblemSolving_Dart)|
-|c++|[repo](https://github.com/Mohamed-Elrayes/challange_c_plus_plus)|
 
