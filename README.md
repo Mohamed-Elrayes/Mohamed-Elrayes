@@ -30,4 +30,5 @@ I’m a Flutter Developer
 ### My projects
 |name|apk|gitHub|
 |----|--------|--------|
-|newsly|[newsly](https://cutt.ly/UPclWeB)|[github]()|
+|newsly|[newsly](https://cutt.ly/UPclWeB)|[github](https://github.com/Mohamed-Elrayes/newsly)|
+|chateo|develop mode|[---]|
