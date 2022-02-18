@@ -32,10 +32,10 @@ I’m a Flutter Developer
 |c++|[repo](https://github.com/Mohamed-Elrayes/challange_c_plus_plus)|
 
 ### My projects
-|name|apk|gitHub|state management
-|----|--------|--------|--------|
-|ecommerce|[ecommerce 2019-2020]|[github](https://github.com/Mohamed-Elrayes/shop_max)|provider|
-|newsly|[newsly](https://cutt.ly/UPclWeB)|[github](https://github.com/Mohamed-Elrayes/newsly)|bloc|
-|chateo|develop mode|[---]|bloc|
+|name|apk|State_Management|Dart_v|Timestamp|Api|gitHub|
+|----|--------|--------|--------|-------------|-----|---|
+|ecommerce|[ecommerce 2019-2020]|provider|2.2.2|2019-2020|firebase|[github](https://github.com/Mohamed-Elrayes/shop_max)|
+|newsly|[newsly](https://cutt.ly/UPclWeB)|bloc|2.15.1|2022|[mediastack](https://mediastack.com/)|[github](https://github.com/Mohamed-Elrayes/newsly)|
+|chateo|develop_mode...|bloc|[---]|
 
 
