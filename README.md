@@ -1,4 +1,4 @@
-<img align="right" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=400px />
+<img align="right" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=300px />
 
 ### Hi, I'm Mohamed Elrayes 👋
 
@@ -8,7 +8,7 @@ I’m a Flutter Developer
 - 😊  I’m currently brushing up my skills in Flutter , Laravel and plan to learn Python.
 - 🤓  I’m currently working on e-commerce system. And planning to publish it soon.
 - 💬  Ask me about Flutter development.
-- 📫  How to reach me: MohamedElrayes1998@gmail.com || Twitter [@Mo_Elrayes_](https://twitter.com/Mo_Elrayes_) 
+- 📫  How to reach me: MohamedElrayes1998@gmail.com || Twitter [@Mo_Elrayes_](https://twitter.com/Mo_Elrayes_) || [LinkedIn](https://www.linkedin.com/in/mo-elrayes/) 
 - 🚴🏽‍♀️  Fun fact: I love exploring new tourist destinations and I'm currently planning for my next expedition.
 
 ### My Certifications :arrow_down:
