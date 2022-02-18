@@ -7,7 +7,7 @@ I’m a Flutter Developer
 - 😊   I’m currently brushing up my skills in Flutter , Laravel and plan to learn Python.
 - 🤓  I’m currently currently working on e-commerce system. And planning to publish it soon.
 - 💬  Ask me about Flutter development.
-- 📫  How to reach me: MohamedElrayes1998@gmail.com or Twitter [@Mo_Elrayes_](twitter.com/Mo_Elrayes_)
+- 📫  How to reach me: MohamedElrayes1998@gmail.com || Twitter [@Mo_Elrayes_](https://twitter.com/Mo_Elrayes_) 
 - 🚴🏽‍♀️  Fun fact: I love exploring new tourist destinations and I'm currently planning for my next expedition.
 
 
