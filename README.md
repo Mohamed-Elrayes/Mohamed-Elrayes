@@ -1,4 +1,4 @@
-<img align="right" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=300px />
+<img align="right" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png" alt="bg flutter" width=300px />
 
 ### Hi, I'm Mohamed Elrayes 👋
 
@@ -10,6 +10,7 @@ I’m a Flutter Developer
 - 💬  Ask me about Flutter development.
 - 📫  How to reach me: MohamedElrayes1998@gmail.com || Twitter [@Mo_Elrayes_](https://twitter.com/Mo_Elrayes_) || [LinkedIn](https://www.linkedin.com/in/mo-elrayes/) 
 - 🚴🏽‍♀️  Fun fact: I love exploring new tourist destinations and I'm currently planning for my next expedition.
+
 ### programming languages and frameworks
 |lang|framework|
 |:----|--------|
@@ -18,6 +19,11 @@ I’m a Flutter Developer
 |php|laravel|
 |c++|
 
+### Books I readed 📘
+<img align="left" src="https://fluttercompletereference.com/images/cover.png" alt="" width=100px />
+<img align="left" src="https://assets.alexandria.raywenderlich.com/books/da/images/384d6592b1dfdaea25f773fc985dc73c943d8a3e1dbbc7f3647cd95c2cacaeec/w594.png" alt="" width=100px />
+
+</br></br></br></br> </br></br>
 
 ### My Certifications :arrow_down:
 - [ Flutter 2019 ] [Angela Yu -> udemy](https://cutt.ly/xO382wk)
