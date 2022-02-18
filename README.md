@@ -10,6 +10,16 @@ I’m a Flutter Developer
 - 💬  Ask me about Flutter development.
 - 📫  How to reach me: MohamedElrayes1998@gmail.com || Twitter [@Mo_Elrayes_](https://twitter.com/Mo_Elrayes_) || [LinkedIn](https://www.linkedin.com/in/mo-elrayes/) 
 - 🚴🏽‍♀️  Fun fact: I love exploring new tourist destinations and I'm currently planning for my next expedition.
+### programming languages and frameworks
+|lang|framework|
+|:----|--------|
+|Dart❤|Flutter|
+|Java|android (basics)|
+|php|laravel|
+|c++|
+
+
+
 
 ### My Certifications :arrow_down:
 - [ Flutter 2019 ] [Angela Yu -> udemy](https://cutt.ly/xO382wk)
@@ -17,3 +27,7 @@ I’m a Flutter Developer
 - [ SQL ] [sql -> 365DataScience ](https://cutt.ly/EO34qvu) 
 - [ Git & Github ] [git & github-> 365DataScience ](https://cutt.ly/kO34ueW)
 
+### My projects
+|name|apk|gitHub|
+|----|--------|--------|
+|newsly|[newsly](https://cutt.ly/UPclWeB)|[github]()|
