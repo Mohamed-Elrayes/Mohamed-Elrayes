@@ -12,8 +12,8 @@ I’m a Flutter Developer
 - 🚴🏽‍♀️  Fun fact: I love exploring new tourist destinations and I'm currently planning for my next expedition.
 
 ### My Certifications :arrow_down:
-- [ Flutter ] [Angela Yu -> udemy](https://cutt.ly/xO382wk)
-- [ Flutter ] [ Maximilian Schwarzmüller -> udemy ](https://cutt.ly/EO38NQg)
+- [ Flutter 2019 ] [Angela Yu -> udemy](https://cutt.ly/xO382wk)
+- [ Flutter 2019 ] [ Maximilian Schwarzmüller -> udemy ](https://cutt.ly/EO38NQg)
 - [ SQL ] [sql -> 365DataScience ](https://cutt.ly/EO34qvu) 
 - [ Git & Github ] [git & github-> 365DataScience ](https://cutt.ly/kO34ueW)
 
