@@ -1,5 +1,5 @@
 <img align="right" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=400px />
-<!-- <h1 align="center"> Hello There 👋 </h1> -->
+
 ### Hi, I'm Mohamed Elrayes 👋
 
 I’m a Flutter Developer
@@ -11,8 +11,7 @@ I’m a Flutter Developer
 - 📫  How to reach me: MohamedElrayes1998@gmail.com || Twitter [@Mo_Elrayes_](https://twitter.com/Mo_Elrayes_) 
 - 🚴🏽‍♀️  Fun fact: I love exploring new tourist destinations and I'm currently planning for my next expedition.
 
-
-## My Certifications :arrow_down:
+### My Certifications :arrow_down:
 - [ Flutter ] [Angela Yu -> udemy](https://cutt.ly/xO382wk)
 - [ Flutter ] [ Maximilian Schwarzmüller -> udemy ](https://cutt.ly/EO38NQg)
 - [ SQL ] [sql -> 365DataScience ](https://cutt.ly/EO34qvu) 
