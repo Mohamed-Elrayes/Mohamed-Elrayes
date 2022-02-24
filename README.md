@@ -31,7 +31,7 @@ I’m a Flutter Developer
 - [ SQL ] [sql -> 365DataScience ](https://cutt.ly/EO34qvu) 
 - [ Git & Github ] [git & github-> 365DataScience ](https://cutt.ly/kO34ueW)
 
-###  problem solving
+###  Challanges
 |lang| url|
 |----|----|
 |dart|[repo](https://github.com/Mohamed-Elrayes/ProblemSolving_Dart)|
