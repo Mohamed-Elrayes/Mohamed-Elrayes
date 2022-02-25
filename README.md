@@ -22,6 +22,7 @@ I’m a Flutter Developer
 ### Books I readed 📘
 <img align="left" src="https://fluttercompletereference.com/images/cover.png" alt="" width=100px />
 <img align="left" src="https://assets.alexandria.raywenderlich.com/books/da/images/384d6592b1dfdaea25f773fc985dc73c943d8a3e1dbbc7f3647cd95c2cacaeec/w594.png" alt="" width=100px />
+<img align="left" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520176865l/38928063._SX318_.jpg" alt="" width=100px />
 
 </br></br></br></br> </br></br>
 
