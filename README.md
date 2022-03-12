@@ -11,6 +11,17 @@ I’m a Flutter Developer
 - 📫  How to reach me: MohamedElrayes1998@gmail.com || Twitter [@Mo_Elrayes_](https://twitter.com/Mo_Elrayes_) || [LinkedIn](https://www.linkedin.com/in/mo-elrayes/) 
 - 🚴🏽‍♀️  Fun fact: I love exploring new tourist destinations and I'm currently planning for my next expedition.
 
+</p>
+
+My Tech Stack :<p align = "center">
+  <img src="https://img.shields.io/badge/Flutter%20-%2314354C.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Dart%20-%2300599C.svg?&style=for-the-badge&logo=Dart&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Java%20-%2300599C.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Firebase%20-%23430098.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
+
+</p>
+
 ### programming languages and frameworks
 |lang|framework|
 |:----|--------|
