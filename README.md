@@ -38,10 +38,10 @@ My Tech Stack :<p align = "center">
 </br></br></br></br> </br></br>
 
 ### My Certifications :arrow_down:
-- [ Flutter 2019 ] [Angela Yu -> udemy](https://cutt.ly/xO382wk)
-- [ Flutter 2019 ] [ Maximilian Schwarzmüller -> udemy ](https://cutt.ly/EO38NQg)
-- [ SQL ] [sql -> 365DataScience ](https://cutt.ly/EO34qvu) 
-- [ Git & Github ] [git & github-> 365DataScience ](https://cutt.ly/kO34ueW)
+- [ Flutter 2019 ] [Basic flutter course](https://cutt.ly/xO382wk)
+- [ Flutter 2019 ] [Advanced flutter course](https://cutt.ly/EO38NQg)
+- [ SQL ] [sql ](https://cutt.ly/EO34qvu) 
+- [ Git & Github ] [git & github](https://cutt.ly/kO34ueW)
 
 ###  Challanges
 |lang| url|
