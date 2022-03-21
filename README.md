@@ -23,12 +23,11 @@ My Tech Stack :<p align = "center">
 </p>
 
 ### programming languages and frameworks
-|lang|framework|
-|:----|--------|
-|Dart❤|Flutter|
-|Java|android (basics)|
-|php|laravel|
-|c++|
+|lang|Dart❤|Java|php|c++|
+|----|----|----|----|----|
+|framework|Flutter|android|laravel|
+
+
 
 ### Books I readed 📘
 <img align="left" src="https://fluttercompletereference.com/images/cover.png" alt="" width=100px />
