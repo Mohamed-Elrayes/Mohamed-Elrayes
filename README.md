@@ -50,8 +50,10 @@ My Tech Stack :<p align = "center">
 ### My projects
 |Kind|Apk|State_Manage..|Dart_v|Timestamp|Api|gitHub|
 |----|--------|--------|--------|-------------|-----|---|
-|ecommerce|ecommerce|provider|2.2.2|2019|firebase|[github](https://github.com/Mohamed-Elrayes/shop_max)|
 |news|[newsly](https://cutt.ly/UPclWeB)|bloc|2.15.1|2022|[mediastack](https://mediastack.com/)|[github](https://github.com/Mohamed-Elrayes/newsly)|
-|chat|develop_mode..|bloc|2.16.1|2022|firebase|[github](https://github.com/Mohamed-Elrayes/chateo)
+|chat|develop_mode..|bloc|2.16.1|2022|firebase|[github](https://github.com/Mohamed-Elrayes/chateo)|
+|BMI|-|stateFull|2.0.0|2019|-|[github](https://github.com/Mohamed-Elrayes/bmi-calculator-flutter)
+|ecommerce|ecommerce|provider|2.2.2|2019|firebase|[github](https://github.com/Mohamed-Elrayes/shop_max)|
+
 
 
