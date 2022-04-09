@@ -42,10 +42,8 @@ My Tech Stack :<p align = "center">
 - [ Git & Github ] [git & github](https://cutt.ly/kO34ueW)
 
 ###  Challanges
-|lang| url|
-|----|----|
-|dart|[repo](https://github.com/Mohamed-Elrayes/ProblemSolving_Dart)|
-|c++|[repo](https://github.com/Mohamed-Elrayes/challange_c_plus_plus)|
+- problem_solving => [repo](https://github.com/Mohamed-Elrayes/ProblemSolving_Dart)
+- Flutter_UI => [repo]()
 
 ### My projects
 |Kind|Apk|State_Manage..|Dart_v|Timestamp|Api|gitHub|
