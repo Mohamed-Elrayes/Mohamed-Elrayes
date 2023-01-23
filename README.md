@@ -2,56 +2,21 @@
 
 ### Hi, I'm Mohamed Elrayes 👋
 
-I’m a Flutter Developer
-- 📱   I’m currently working as a freelance.✨
-- 🧰  I’m currently studying CS [self study].
-- 😊  I’m currently brushing up my skills in Flutter , Laravel and plan to learn Python.
-- 🤓  I’m currently working on e-commerce system. And planning to publish it soon.
-- 💬  Ask me about Flutter development.
-- 📫  How to reach me: MohamedElrayes1998@gmail.com || Twitter [@Mo_Elrayes_](https://twitter.com/Mo_Elrayes_) || [LinkedIn](https://www.linkedin.com/in/mo-elrayes/) 
-- 🚴🏽‍♀️  Fun fact: I love exploring new tourist destinations and I'm currently planning for my next expedition.
+I’m a software engineer, specialising in the development of Mobile Apps using Flutter.  And have helped build mid-scale mobile applications through the use of Flutter (iOS and Android).
+With more than 4+ years of experience in the industry, 
 
-</p>
+Key qualities:</br>
+• Great presentation and communication skills, filled with a positive attitude and enthusiastic energy,</br>
+• Devoted team member, who cares about the product as a whole and participates in its whole lifecycle, as if the product was my own idea,</br>
+• 4+ years of experience in building iOS and Android apps using Flutter,</br>
 
-My Tech Stack :<p align = "center">
-  <img src="https://img.shields.io/badge/Flutter%20-%2314354C.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Dart%20-%2300599C.svg?&style=for-the-badge&logo=Dart&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Java%20-%2300599C.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Firebase%20-%23430098.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
+Other important skills:</br>
+• Solid knowledge of backend technologies: Laravel (PHP), Nodejs(JavaScript), Firebase,</br>
+• Work with many project management tools (Jira, ClickUp, Trello).</br>
 
-</p>
+Eager to work on great ideas and amazing projects!😍
 
-### programming languages and frameworks
-|lang|Dart❤|Java|php|c++|
-|----|----|----|----|----|
-|framework|Flutter|android|laravel|
+To check out my recommendations and endorsements, feel free to ask.
 
-
-### Books I readed 📘
-<img align="left" src="https://fluttercompletereference.com/images/cover.png" alt="" width=100px />
-<img align="left" src="https://assets.alexandria.raywenderlich.com/books/da/images/384d6592b1dfdaea25f773fc985dc73c943d8a3e1dbbc7f3647cd95c2cacaeec/w594.png" alt="" width=100px />
-<img align="left" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520176865l/38928063._SX318_.jpg" alt="" width=100px />
-
-</br></br></br></br> </br></br>
-
-### My Certifications :arrow_down:
-- [ Flutter 2019 ] [Basic flutter course](https://cutt.ly/xO382wk)
-- [ Flutter 2019 ] [Advanced flutter course](https://cutt.ly/EO38NQg)
-- [ SQL ] [sql ](https://cutt.ly/EO34qvu) 
-- [ Git & Github ] [git & github](https://cutt.ly/kO34ueW)
-
-###  Challanges
-- problem_solving => [repo](https://github.com/Mohamed-Elrayes/ProblemSolving_Dart)
-- Flutter_UI => [repo]()
-
-### My projects
-|Kind|Apk|State_Manage..|Dart_v|Timestamp|Api|gitHub|
-|----|--------|--------|--------|-------------|-----|---|
-|news|[newsly](https://cutt.ly/UPclWeB)|bloc|2.15.1|2022|[mediastack](https://mediastack.com/)|[github](https://github.com/Mohamed-Elrayes/newsly)|
-|chat|develop_mode..|bloc|2.16.1|2022|firebase|[github](https://github.com/Mohamed-Elrayes/chateo)|
-|BMI|-|stateFull|2.0.0|2019|-|[github](https://github.com/Mohamed-Elrayes/bmi-calculator-flutter)
-|ecommerce|ecommerce|provider|2.2.2|2019|firebase|[github](https://github.com/Mohamed-Elrayes/shop_max)|
-
-
-
+Best regards,
+Mohamed Elrayes ❤️
