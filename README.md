@@ -14,9 +14,9 @@ Other important skills:</br>
 • Solid knowledge of backend technologies: Laravel (PHP), Nodejs(JavaScript), Firebase,</br>
 • Work with many project management tools (Jira, ClickUp, Trello).</br>
 
-Eager to work on great ideas and amazing projects!😍
+Eager to work on great ideas and amazing projects!😍</br>
 
-To check out my recommendations and endorsements, feel free to ask.
+To check out my recommendations and endorsements, feel free to ask.</br>
 
-Best regards,
+Best regards,</br>
 Mohamed Elrayes ❤️
