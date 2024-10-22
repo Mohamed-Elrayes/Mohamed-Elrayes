@@ -10,10 +10,6 @@ Key qualities:</br>
 • Devoted team member, who cares about the product as a whole and participates in its whole lifecycle, as if the product was my own idea,</br>
 • 4+ years of experience in building iOS and Android apps using Flutter,</br>
 
-Other important skills:</br>
-• Solid knowledge of backend technologies: Laravel (PHP), Nodejs(JavaScript), Firebase,</br>
-• Work with many project management tools (Jira, ClickUp, Trello).</br>
-
 Eager to work on great ideas and amazing projects!😍</br>
 
 To check out my recommendations and endorsements, feel free to ask.</br>
