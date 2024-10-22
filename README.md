@@ -15,4 +15,4 @@ Eager to work on great ideas and amazing projects!😍</br>
 To check out my recommendations and endorsements, feel free to ask.</br>
 
 Best regards,</br>
-Mohamed Elrayes ❤️
+Mohamed Elrayes 💙
