@@ -24,3 +24,16 @@ My focus is on creating exceptional mobile experiences using Flutter. I'm driven
 ## Tech Stack
 
 Flutter, Dart, PostgreSQL, Kotlin, Swift, UiKit, SwiftUI, JavaScript/TypeScript, Python, CI/CD, GitHub Actions, REST APIs, Mobile App Development, Backend Development, Automation.
+
+## Certifications
+
+- **Advanced Android Kotlin Development Nanodegree:** This certification demonstrates my expertise in advanced Android development using Kotlin, reflecting my commitment to building high-quality, modern mobile applications.
+
+## Let's Connect!
+
+I'm always eager to connect with fellow developers, discuss new technologies, and explore potential collaborations. Feel free to reach out!
+
+[<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Elrayes&show_icons=true&locale=en" alt="Mohamed-Elrayes" /></p>
+]::
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Elrayes&" alt="Mohamed-Elrayes" /></p>
+
