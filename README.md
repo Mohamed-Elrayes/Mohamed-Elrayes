@@ -1,18 +1,26 @@
-<img align="right" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png" alt="bg flutter" width=300px />
+<h1 align="center">Hi 👋, I'm Mohamed Salah Elrayes</h1>
+<h3 align="center">Software Engineer | Cross-Platform Development</h3>
 
-### Hi, I'm Mohamed Elrayes 👋
+<p align="center">I'm passionate about building elegant, high-performance cross-platform mobile applications using Flutter. I thrive on solving user problems with intuitive design and efficient code. I'm also a huge advocate for automation to streamline workflows and boost efficiency.</p>
 
-I’m a software engineer, specialising in the development of Mobile Apps using Flutter.  And have helped build mid-scale mobile applications through the use of Flutter (iOS and Android).
-With more than 4+ years of experience in the industry, 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/Mohamed-Elrayes" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelaziz-mahdy" height="30" width="40" />
+  </a>
+</p>
 
-Key qualities:</br>
-• Great presentation and communication skills, filled with a positive attitude and enthusiastic energy,</br>
-• Devoted team member, who cares about the product as a whole and participates in its whole lifecycle, as if the product was my own idea,</br>
-• 4+ years of experience in building iOS and Android apps using Flutter,</br>
+## About Me
 
-Eager to work on great ideas and amazing projects!😍</br>
+My focus is on creating exceptional mobile experiences using Flutter. I'm driven by the challenge of transforming user needs into beautiful, functional, and performant apps. Beyond the frontend, I'm passionate about backend technologies and constantly exploring ways to optimize the entire development lifecycle. I believe in continuous learning and always seeking new ways to improve my craft.
 
-To check out my recommendations and endorsements, feel free to ask.</br>
+## Core Strengths
 
-Best regards,</br>
-Mohamed Elrayes 💙
+- **Cross-Platform Development (Flutter/Dart):** Building polished, high-performance mobile apps with a focus on user experience and elegant design.
+- **Backend Engineering (Django/PostgreSQL):** Developing robust and scalable backend systems to support my mobile applications.
+- **DevOps & Automation (CI/CD/GitHub Actions):** Streamlining workflows and maximizing efficiency through automation and cloud technologies.
+- **Problem-Solving & Analytical Thinking:** A methodical approach to dissecting challenges and finding creative solutions.
+
+## Tech Stack
+
+Flutter, Dart, PostgreSQL, Kotlin, Swift, UiKit, SwiftUI, JavaScript/TypeScript, Python, CI/CD, GitHub Actions, REST APIs, Mobile App Development, Backend Development, Automation.
