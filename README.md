@@ -32,8 +32,3 @@ Flutter, Dart, PostgreSQL, Kotlin, Swift, UiKit, SwiftUI, JavaScript/TypeScript,
 ## Let's Connect!
 
 I'm always eager to connect with fellow developers, discuss new technologies, and explore potential collaborations. Feel free to reach out!
-
-[<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Elrayes&show_icons=true&locale=en" alt="Mohamed-Elrayes" /></p>
-]::
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Elrayes&" alt="Mohamed-Elrayes" /></p>
-
