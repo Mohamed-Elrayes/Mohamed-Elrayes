@@ -17,8 +17,8 @@ My focus is on creating exceptional mobile experiences using Flutter. I'm driven
 ## Core Strengths
 
 - **Cross-Platform Development (Flutter/Dart):** Building polished, high-performance mobile apps with a focus on user experience and elegant design.
-- **Backend Engineering (Django/PostgreSQL):** Developing robust and scalable backend systems to support my mobile applications.
-- **DevOps & Automation (CI/CD/GitHub Actions):** Streamlining workflows and maximizing efficiency through automation and cloud technologies.
+- **Backend Engineering (Supabase/PostgreSQL):** Developing robust and scalable backend systems to support my mobile applications.
+- **Automation (CI/CD/GitHub Actions):** Streamlining workflows and maximizing efficiency through automation.
 - **Problem-Solving & Analytical Thinking:** A methodical approach to dissecting challenges and finding creative solutions.
 
 ## Tech Stack
